@@ -1,4 +1,7 @@
 ## Contents
+Review deadline:
+Main reviewer: @octocat
+
 ### The What
 
 
@@ -22,5 +25,5 @@
 ### Expected outcome
 
 ## Verifications
-- [ ] Code to be reviewed by @octocat
+- [ ] Code reviewed by @octocat
 - [ ] Code tested by @octocat
